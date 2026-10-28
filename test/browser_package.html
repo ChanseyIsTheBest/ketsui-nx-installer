@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ketsui-nx installer: package in the browser</title>
+  <style>body { font: 14px/1.5 ui-monospace, monospace; margin: 16px; background: #fff; color: #000; } .bad { color: #b00; } .good { color: #070; }</style>
+</head>
+<body>
+<h1>Package in the browser</h1>
+<p>Serve the repository with <code>python serve.py 8193 . --test-files &lt;folder&gt;</code> and open
+<code>/test/browser_package.html?files=&lt;the disc image, or the game files, comma-separated&gt;</code> (paths under the test
+folder). It runs createPackage in a worker of this browser, with the release NRO
+from release/, and counts the zip instead of saving it.</p>
+<pre id="out"></pre>
+<script type="module">
+const out = document.getElementById('out');
+const say = (text, cls = '') => {
+  const line = document.createElement('div');
+  line.textContent = text;
+  line.className = cls;
+  out.appendChild(line);
+};
+const q = new URLSearchParams(location.search);
+const worker = new Worker('./browser_package_worker.js', { type: 'module' });
+worker.onmessage = ({ data }) => {
+  say(data.text, data.type === 'done' ? 'good' : data.type === 'error' ? 'bad' : '');
+  if (data.type !== 'log') {
+    document.title = `${data.type} ${data.text.slice(0, 60)}`;
+  }
+};
+worker.onerror = (e) => say(`worker error: ${e.message}`, 'bad');
+worker.postMessage({ files: q.get('files').split(',') });
+</script>
+</body>
+</html>

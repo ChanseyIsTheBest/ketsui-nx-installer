@@ -1,0 +1,1247 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "edition": "Xbox 360 disc (title 465607D1, Ketsui Kizuna Jigoku Tachi Extra)",
+      "version": "1.0.0",
+      "xex_sha256": "a51dcb69271b106707414619c2d2b65090353207fdb52c1793e6a4dc811a7970",
+      "game_files": [
+        {
+          "path": "Data/Graphics/5pb.wmv",
+          "size": 3701455
+        },
+        {
+          "path": "Data/Graphics/Achievement.tex",
+          "size": 1720320
+        },
+        {
+          "path": "Data/Graphics/Gallery/000.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000a.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000b.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000c.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000d.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000e.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/000f.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/001.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/002.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/003.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/004.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/005.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/006.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/007.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/008.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/009.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/010.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/011.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/012.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/013.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/014.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/015.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/016.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/017.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/018.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/019.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/020.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/021.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/022.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/023.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/024.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/025.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/026.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/027.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/028.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/029.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/030.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/031.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/032.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/033.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/034.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/035.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/036.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/037.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/038.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/039.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/040.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/041.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/042.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/043.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/044.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/045.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/046.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/047.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/048.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/049.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/050.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/051.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/052.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/053.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/054.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/055.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/056.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/057.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/058.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/059.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/060.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/061.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/062.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/063.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/064.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/065.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/066.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/067.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/068.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/069.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/070.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/071.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/072.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/073.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/074.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/075.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/076.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/077.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/078.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/079.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/080.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/081.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/082.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/083.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/084.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/085.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/086.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/087.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/088.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/089.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/090.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/091.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/092.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/093.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/094.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/095.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/096.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/097.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/098.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/099.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/100.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/101.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/102.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/103.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/104.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/105.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/106.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/107.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/108.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/109.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/110.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/111.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/112.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/113.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/114.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/115.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/116.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/117.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/118.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/119.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/120.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/121.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/122.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/123.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/124.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/125.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/126.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/127.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/128.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/129.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/130.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/131.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/132.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/133.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/134.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/135.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/136.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/137.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/138.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/139.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/140.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/141.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/142.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/143.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/144.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/145.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/146.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/147.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/148.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/149.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/150.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/151.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/152.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/153.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/154.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/155.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/156.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/157.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/158.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/159.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/160.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/161.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/162.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/163.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/Gallery/164.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/165.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/166.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/167.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/168.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/169.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/170.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/171.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/172.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/173.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/174.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/175.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/176.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/177.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/178.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/179.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/180.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/181.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/182.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/183.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/184.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/185.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/186.tex",
+          "size": 3809280
+        },
+        {
+          "path": "Data/Graphics/Gallery/187.tex",
+          "size": 1966080
+        },
+        {
+          "path": "Data/Graphics/GameTitle.tex",
+          "size": 401408
+        },
+        {
+          "path": "Data/Graphics/IngameMenu.tex",
+          "size": 1048576
+        },
+        {
+          "path": "Data/Graphics/MainMenu.tex",
+          "size": 4194304
+        },
+        {
+          "path": "Data/Graphics/Tracker.tex",
+          "size": 245760
+        },
+        {
+          "path": "Data/Graphics/atxt.tex",
+          "size": 786432
+        },
+        {
+          "path": "Data/Graphics/bg1.tex",
+          "size": 460800
+        },
+        {
+          "path": "Data/Graphics/ke_bg01_02.tex",
+          "size": 3768320
+        },
+        {
+          "path": "Data/Graphics/ke_bg02_02.tex",
+          "size": 3768320
+        },
+        {
+          "path": "Data/Graphics/ke_bg03_02.tex",
+          "size": 3768320
+        },
+        {
+          "path": "Data/Graphics/ke_bg04_02.tex",
+          "size": 3768320
+        },
+        {
+          "path": "Data/Graphics/ketsui_welcome.swf",
+          "size": 53596
+        },
+        {
+          "path": "Data/Graphics/loading.swf",
+          "size": 5110
+        },
+        {
+          "path": "Data/Graphics/title.tex",
+          "size": 3768320
+        },
+        {
+          "path": "Data/Graphics/title.wmv",
+          "size": 3789495
+        },
+        {
+          "path": "Data/MSgothic.ttf",
+          "size": 3302688
+        },
+        {
+          "path": "Data/Sound/SYSSE.ROM",
+          "size": 1224388
+        },
+        {
+          "path": "Data/cg/Bg0.tex",
+          "size": 5963776
+        },
+        {
+          "path": "Data/cg/Bg1.tex",
+          "size": 3145728
+        },
+        {
+          "path": "Data/cg/Bg2.tex",
+          "size": 4325376
+        },
+        {
+          "path": "Data/cg/Bg3.tex",
+          "size": 4194304
+        },
+        {
+          "path": "Data/cg/Bg4.tex",
+          "size": 5308416
+        },
+        {
+          "path": "Data/cg/Obj.tex",
+          "size": 195284992
+        },
+        {
+          "path": "Data/cg/Txt.tex",
+          "size": 1048576
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_boss.xma",
+          "size": 3189020
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_endg.xma",
+          "size": 3383592
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_govr.xma",
+          "size": 116832
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_lbs1.xma",
+          "size": 1493172
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_lbs2.xma",
+          "size": 2224352
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_name.xma",
+          "size": 1224868
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_psel.xma",
+          "size": 1321132
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_sclr.xma",
+          "size": 663684
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_stg1.xma",
+          "size": 2744576
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_stg2.xma",
+          "size": 3260704
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_stg3.xma",
+          "size": 3103000
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_stg4.xma",
+          "size": 3612984
+        },
+        {
+          "path": "Data/sd/MOD/kkj_arr_stg5.xma",
+          "size": 5515692
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_boss.xma",
+          "size": 1018008
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_endg.xma",
+          "size": 913552
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_govr.xma",
+          "size": 45152
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_lbs1.xma",
+          "size": 817292
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_lbs2.xma",
+          "size": 1126560
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_name.xma",
+          "size": 465016
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_psel.xma",
+          "size": 376944
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_sclr.xma",
+          "size": 200808
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_stg1.xma",
+          "size": 1190052
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_stg2.xma",
+          "size": 1235108
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_stg3.xma",
+          "size": 946324
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_stg4.xma",
+          "size": 1185956
+        },
+        {
+          "path": "Data/sd/MOD/kkj_mono_stg5.xma",
+          "size": 1724612
+        },
+        {
+          "path": "Data/sd/MOD/kkj_new_menu.xma",
+          "size": 4118868
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_boss.xma",
+          "size": 1466548
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_endg.xma",
+          "size": 1527992
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_govr.xma",
+          "size": 82020
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_lbs1.xma",
+          "size": 1249448
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_lbs2.xma",
+          "size": 2040024
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_name.xma",
+          "size": 770184
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_psel.xma",
+          "size": 669828
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_sclr.xma",
+          "size": 340080
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_stg1.xma",
+          "size": 2089176
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_stg2.xma",
+          "size": 1980628
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_stg3.xma",
+          "size": 1552568
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_stg4.xma",
+          "size": 1833160
+        },
+        {
+          "path": "Data/sd/MOD/kkj_stereo_stg5.xma",
+          "size": 3107096
+        },
+        {
+          "path": "Data/sd/SNDSE.ROM",
+          "size": 1467983
+        },
+        {
+          "path": "default.xex",
+          "size": 15646720
+        },
+        {
+          "path": "nxeart",
+          "size": 1105920
+        }
+      ],
+      "nro": "ketsui.nro",
+      "nro_sha256": "c683adfa2b15370f8140a62fa7e17683a019b6c70df379ee5a97ba3e9cf7ee96",
+      "nro_size": 37786467,
+      "deko3d": {
+        "shaders": [
+          "ps_26BA757C92CDA074",
+          "ps_2878A3A19E9687C6",
+          "ps_41B2989508096E2D",
+          "ps_4ACECE661735B807",
+          "ps_5C36F2BFCD6C9D7A",
+          "ps_62C00E7EA22D1ECF",
+          "ps_744C82EBDDCD631A",
+          "ps_881E67876EB4DF9E",
+          "ps_9231F75AB32BD50D",
+          "ps_BBE370A68CD867A3",
+          "ps_BD14532576376EF7",
+          "ps_C7E1CE2A8187CA88",
+          "ps_CD1CDEA8B43001AC",
+          "ps_CEE9D2F385725B81",
+          "ps_D31BFC77208E021D",
+          "ps_E3E7C4540815A2F2",
+          "ps_FB88147DABC290AE",
+          "vs_01770253BD051184",
+          "vs_01F95B695A924F97",
+          "vs_03355242B546009A",
+          "vs_051452DFC0B92154",
+          "vs_05644FC9D3FF60A5",
+          "vs_0643A0E311F5B026",
+          "vs_0BC5490B9C2C4815",
+          "vs_1613E883C79C50BF",
+          "vs_1C451EBEF68E2094",
+          "vs_2849BECC6FC06BB9",
+          "vs_2A86BC9A32629F98",
+          "vs_2B495562D817440E",
+          "vs_2B99E742562B9E23",
+          "vs_2E04044678685085",
+          "vs_31144A4DB356B75E",
+          "vs_35EA2EC24BDE6F24",
+          "vs_3A4FE506E61C10F8",
+          "vs_3ADBB16F6D324096",
+          "vs_3AF4A0137B947E1D",
+          "vs_3C1D141DFA70B00E",
+          "vs_3D1AD0256AEE453A",
+          "vs_3DD2202B0451A972",
+          "vs_405577366A034645",
+          "vs_42DE565CEED79BC6",
+          "vs_450475D1ECA9B3C4",
+          "vs_4FD96E378ADDA907",
+          "vs_559B13EA7E015B1C",
+          "vs_55C56080480711D9",
+          "vs_5C0FAFB886A1BD72",
+          "vs_5FE4E6D6EAE5CA6B",
+          "vs_612C7619C991373B",
+          "vs_62A5AA81B2D68D6B",
+          "vs_6380347CE4858A77",
+          "vs_63FCD95D56F58E2D",
+          "vs_6556D4F5AB16DE80",
+          "vs_68DF451A685BBA21",
+          "vs_69A5D0AB8A52214A",
+          "vs_6A425B3915E108F0",
+          "vs_6EB725E0822786DF",
+          "vs_72BB076AB5AAA5F7",
+          "vs_81400BC297590F15",
+          "vs_847BDF0AF3524D00",
+          "vs_854C8DEDCE18A296",
+          "vs_868ACE092AE24161",
+          "vs_95CBB558EC17C920",
+          "vs_A39241EF5A193E99",
+          "vs_A41B0389D9CCE5E2",
+          "vs_A776391218EBC39C",
+          "vs_A7EDF3326CB405B1",
+          "vs_AC52038337344204",
+          "vs_B83EB4DA455709B9",
+          "vs_BD41E534F5C148A6",
+          "vs_C1BD5FF217086ABD",
+          "vs_C2AB0198A2C168E9",
+          "vs_C9C442FB7BEA460F",
+          "vs_CBBEABCFCA29F0B6",
+          "vs_CE3CA907AC78396C",
+          "vs_CE926C8353675C61",
+          "vs_DA8BFFCFCDBC6B9F",
+          "vs_DC1DCAEEAB96D0F4",
+          "vs_E08E40490633A486",
+          "vs_E303A8E45BCDCBEE",
+          "vs_E4E5D0D5F5392E3F",
+          "vs_E848646A958327D4",
+          "vs_ED1EAA2EAC1280C8",
+          "vs_F0BAC3C8EC57ED0E",
+          "vs_F346DED59C21BA48",
+          "vs_F94066E645D0CF11",
+          "vs_FADF23E3C497A6D1",
+          "vs_FBCF7342BE43A5BF",
+          "vs_FDFD166EB29FBDE6"
+        ],
+        "containers_sha256": [
+          "04335cdc039106153ad41e0f00933b42f7645765f9ef40376058de7c7fe485e9",
+          "057c5cb5e2f9715bea9c1b3362026a3f75003afd93c97d45c06ddd699b5793df",
+          "0a2bc4c9b97a2ef93516c650742c5a41afabc929c6314f534a7ad62009fc4929",
+          "0ba0fcefb23793050cbfe07e57fb5622280d5f0ab754bee4948d6329bc486f8d",
+          "0ba4ad2a5e8ddceb3553d97f1e83300f888a6adff1cc76e39b1b648a197f559f",
+          "0cae34904359efd0ef513810748c542a63fd82b911e14d623f158edde995b317",
+          "0eb277dcc6dffb619194fa8282cd08ab0ed0e069bd5f1b370c0d5dbafbc5f5db",
+          "1784e366aed5925698fdd6e14ec1ddb7e803d8c6147174ae38642c46c10f71ec",
+          "1c5324b1e18d3ff5f122dc9366ddd603559a188816d88916a6a5a685cbd6c46c",
+          "1f590ad5d4b8742a042ad6cf6cb707c23807fdf107b9a1a110853fad5edce298",
+          "202decb41ecb01a58a03223c7d06af70252d18403fba5c70ee21bdee1ecc43ef",
+          "222fea761f52dd978f93d0512e5e1688a1fb6aa9de21fb5d2f59cec29125e508",
+          "2826cf2720354518b6073cc146989e5fbd02fa43de1b1c776b271f7a31b5fc68",
+          "29d8eaed1caef4b1c3c43b2079554042e6b341024959648dec112ad2f70d93ec",
+          "31cceffb9adc0d371a4ccf79a777ee1e0ad6f4be96161d47570fab55d738f85b",
+          "33a943cbe48e7678819bf578b40286d6eabe5016bed88113c4846ed6dda1a9f8",
+          "3bf557801f723bdc95467c58822fd7694e15a6c5558c82570f3fcabb40b9e1f8",
+          "3c66a57de630b8e0753372c8062e2a4828c3a2266bb65ff092eb56dff167ec49",
+          "3f333764e56b0291ae849e6ccc8df2aee0ff1ee38a4879104f7c9d5e9551017f",
+          "3f93d924ed3bcc48ea462756b5a27fde5c90147fb78a29cc1fd9cabcdbcee78e",
+          "4252f48fe1080f33449f9ad194d2c0327f80717cd2b5f85cadd38e0cb16e613d",
+          "469072ebb9719c5990e67ff4f9f0ac530a54be12f164ad83af8a8ed739aa958b",
+          "4753653ad7392f115969bf40473b8ce3f7f8663b638c2a8b7921780858f1089b",
+          "4d32acb89ccbb34eb9865f1b781374f9ccd75510d767577aa8b25722b1739ea2",
+          "5332ecd6bffae6666cba07e63a822f2ac3823a86b4370633220f62925280ffd7",
+          "5510ee89ae9c175403dd50f15c843b9425f529d9e3c6a6bfc537e701063dcff3",
+          "57950ab3c14ff293f524cedb699568e4869b5556774c511982a6f9cd6b1220d0",
+          "58efb42cba17abfad3af207534ab4b6d65b9d738a7c68785c9cbd97dad60ff2c",
+          "5c6577e0516560f7f1b3418c9b25ba3adb2a0ad7382d4ee1b015b796e0feee43",
+          "618d3a1355377a4db8c689ba30ac51e43aad2be94b8cb7427535e35d75492f0f",
+          "65b9be26c8450d01688a1e41aa702c6ee24c445f822702130c6ea0ab1ed3b57f",
+          "674e49f17437f8fbb7c97a62c13f7f1342859e052df8a5df04b2d8fb35674847",
+          "6ad09faac8450f04555277cbe406ac3865b672b850b756fce09ae6fd2c761e58",
+          "6d27033cfb3cb238c3e5691807b3b2b7e2c0336a8509e77f4c3b84728995a873",
+          "6f82c6ea660e9f3dd4d5bae4b640a8845102a91eff23eaeca8dc24fb380d3266",
+          "732984ab05e0913cc4d92cadf6627f3cd35e8649e6cd791c4b5b2509b927457e",
+          "76b50be288e3b8461e1693600dc9a2fdf6e432752ee5c17eac9f4e37b5de0f88",
+          "7766171ca35894aba8d25db8da11ee33dc55159698eef809a65b3b7cb01fc43e",
+          "79c35b0b34288c43d22dad93ee190a6c311fdc736ef7361524bd9e3fe273e2de",
+          "87898a811bc398ae7e61eac8ba5709289a9cd70d4f0c1bef81e6b6e398c73e4f",
+          "8994a75ba8c6742a23080b44c25bd28a71b4e9f9f73b8d1e4c69cee9921fd782",
+          "8d67d752c59455311da0ff3640647cc91537fbb06b2f81eebb5878ee5b34b298",
+          "8d7cf6b89f6be6a30284a0a46ba923dde9dcedb3c0269f4f4a97ce54066e443d",
+          "8ee4f95a1d84cad11d7e5c35d476ed73999789c93adc5c6037442108ee62f3fb",
+          "9011610a500bef56b292cbf9fc5420947f7c0b6c5b476c2d044a42abf7e70b21",
+          "95326e7244f18926b1f01c960787a277324fbfd9a1da4282ca59d9a5cd9546e6",
+          "992db250bc7c0be3ebc0083580d638c221ce777e5b342119ec2efc674fa52d0a",
+          "9b2625cfbef5442b03e9e76d4d341f91656975c5f7d032a3839c26953692c50a",
+          "9b4b2270826b937b70b412d137163d957431d87051b21e6effc68e42c1ead964",
+          "9bca4916af8528ac8f8e19304d614581e9859146fe74a5729b58dcd37655baa3",
+          "a048de75c353ad928c4a09aa650060a7116be66eb9f020136c04e31be2d9916b",
+          "a3cb0c30c2d1ae549b926226e9958c88d441de7c79637db371e08820a9d91394",
+          "a3e0abf1af28f2d50f33a4ad8ba08baac219adcc581a850dc6711ca06c6acab2",
+          "a6312fb926b4f995f61fe7af4c4f3fd153aa77f977d75f6ca0e246487fba008a",
+          "a89432efe9a2bd72f55027c7cb0f0ad7c0d2029ccc1c35bde498a98b706ad437",
+          "ad103aaa6289d0046f533114802e4d71d40124ea62585df5c23057e0048c1627",
+          "ad3d524168723fb3cd2b6058141ace48be8b0ece3bc0aead433233382a26a719",
+          "aeb3ada77309f564fc8ca86753fd68a6890a40f88ff002a22460f301da39846a",
+          "af0f49ba9aa486026b858c9b7091e6ddcca26bd80c14a3575f6fd144dc0a1c4a",
+          "af10f334c73583badd0fc5b994f9fc4106a8b8cc05b9e4d37cfadbac1a741037",
+          "b2c26ad5848211a219dc6d4fb3e3efde4f5a848a56cff498715dbc6365e5648b",
+          "ba7da193bfd3476be26919126dd659d3c34477c375513fe51e320857d3d7c043",
+          "bacea6130d3df01aaa401995a20168388c03a3fdc3824a068de5531699df5437",
+          "bb3d7a76dd4e1ce170f0bc0ce6e52c75791f8c47f1d8cd31fd6d292ec331d741",
+          "c06b0186473bb248740ecd319c1389be59518366c47db08a393bd1bb78bfba56",
+          "c1ac71f9d33638c5943a6b662d5d09c10011089f7755b8d8d4ebfc2199c48cf0",
+          "c3051e43f65f4e5962e457ba3e3ba20b961a62337c72da4f5770046b227edac1",
+          "c4edb18fe10f39eada87e0f382efafcedfd7b454fc12292681c00689b68332e9",
+          "c5dac81c7208ec7ab315f2f443b191c9750c2412e7d6ed42395684ebe8d39894",
+          "c6eef558061e7fc469db8920503d02b1a07f6fa560be5f44a281190ead06b05b",
+          "c98840bed423444cfec869dfe4d59f53ec8863777c584f95f2f90bba13bf05e5",
+          "ca18c2e1ed17122909651005e431f4a3a04fcd1a18adb5f74e0728c59b8b56a3",
+          "caae10de79c9d795c81c77046720796b729d348de40d795d18362f53e7120218",
+          "cee90bb71680783e74041d653ad3b576212e81d3d81298fdccec3f200e33073d",
+          "d6e295f569ef3164a0527f44855cd3fdb3d8b70752236b7fad4360c10826ab8c",
+          "d7c5f6151c1d9f11adc9ab56173f7bd3e7d17b50692ee07047d0e312a803ed10",
+          "da62ff2a129e29d272b70debcb11a43ca5c838ee981efa73a05195617034136e",
+          "e032fc634c8ba211e4918824648ae032e61e1c3b7ae172764f47af3b6fd2d8e6",
+          "e2cc4285abf3ca095b914a57f39ff438e2582712b84a77360e693341ca35c850",
+          "e53fa7cd3e47a777e9eeb2e84b80345afc98ee9481d52089c3888ebe82b22d89",
+          "e78d76f7e70abc2894fbc7818d88c199e6c88213b851c7eb9fa762398a01f2b3",
+          "e91548652d24be2ff550f9fd765449d98f08afaa618d5aa48f623a66786763b8",
+          "ef53c5f384e9b80d0d03b33ffac426174ea9e24295a3b01cf90721cef8ca33fa",
+          "f6e994efa23ba2ee3d8b069150ca64401d59d150d51b0ba5ff8c5501a68f45cc",
+          "f798bd84ca99637ba02f64fe72d1fe925dffb63af7ddd138b3913004c375a4bf",
+          "f8bb00b35ad49141b98947e3f106ee11fc4937d775c9999f02532cfe6d1d3590",
+          "fc1212faa72530f4dc16dcecba013d1f3b76339bf7ab789ae12ed97ad5396c30",
+          "ffa53ed6b6a1c340d6f93fb9535b974af1165bb4d2af853aa4d291c6ab8b8f18"
+        ],
+        "package_sha256": "a8b4174b661a4256317623688029f02a4af6ced7bb0afd80815f976e5626666c",
+        "package_size": 5999448
+      }
+    }
+  ]
+}
